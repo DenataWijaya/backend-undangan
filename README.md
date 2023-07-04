@@ -1,4 +1,3 @@
-<p align="center"><img src="https://raw.githubusercontent.com/dewanakl/Kamu/main/public/kamu.png" width="200" alt="kamu"></p>
 
 <p align="center">
 <a href="https://packagist.org/packages/kamu/framework"><img src="https://img.shields.io/packagist/dt/kamu/framework" alt="Total Downloads"></a>
@@ -6,23 +5,11 @@
 <a href="https://packagist.org/packages/kamu/framework"><img src="https://img.shields.io/packagist/l/kamu/framework" alt="License"></a>
 </p>
 
-## About Kamu
-
-Kamu adalah PHP framework yang sangat sederhana. Saking sederhananya, serasa di localhost!!.
-<br>
-Dibantu dengan saya console untuk mempermudah dalam development aplikasi Anda.
-
-<hr>
-
-##### Deployment API Vercel: [https://dikit.my.id/DeploymentApiVercel](https://dikit.my.id/DeploymentApiVercel)
-##### Deployment API Hosting: [https://dikit.my.id/DeploymentApiHosting](https://dikit.my.id/DeploymentApiHosting)
-
-<hr>
 
 ## Deployment on vercel
 - Clone or download this repository
     ```bash
-    git clone https://github.com/dewanakl/DikitLink.git
+    git clone https://github.com/DenataWijaya/backend-undangan
     ```
 - Install package
     ```bash
@@ -70,14 +57,3 @@ Dibantu dengan saya console untuk mempermudah dalam development aplikasi Anda.
     php saya coba
     ```
 
-## Contributing
-
-I'm very open to those of you who want to contribute to Kamu framework!
-
-## Security Vulnerabilities
-
-If you find a security vulnerability in this Kamu, please email DKL via [dewanakretarta29@gmail.com](mailto:dewanakretarta29@gmail.com).
-
-## License
-
-Kamu framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
